@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://aniketh003.github.io/Portfolio/)
+[![MasterHead](https://www.lenny76.com/wp-content/uploads/2018/03/hello-world.jpg)](https://aniketh003.github.io/Portfolio/)
 <h1 align="center">Heyy 👋, I'm Aniketh Busavale</h1>
 <h3 align="center">
   A passionate frontend developer and a big fan of problem solving
