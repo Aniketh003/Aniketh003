@@ -25,7 +25,7 @@
 </p>
 
 - 🌱 I’m currently learning **React** 
-- 👨‍💻 All of my projects are available at [https://aniketh003.github.io/Portfolio/](https://aniketh003.github.io/)
+- 👨‍💻 All of my projects are available at [https://aniketh003.github.io](https://aniketh003.github.io)
 - 💬 Ask me about **Frontend Development,DSA**
 - 📫 How to reach me **anikethbusavale03@gmail.com**
 
