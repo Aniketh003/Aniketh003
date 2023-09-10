@@ -28,7 +28,6 @@
 - 👨‍💻 All of my projects are available at [https://aniketh003.github.io/Portfolio/](https://aniketh003.github.io/)
 - 💬 Ask me about **Frontend Development,DSA**
 - 📫 How to reach me **anikethbusavale03@gmail.com**
-- ⚡ Fun fact **I think I am funny**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <h3 align="left">Connect with me:</h3>
